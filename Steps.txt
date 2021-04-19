@@ -1,0 +1,12 @@
+1 - Open Anaconda
+
+2 - cd ..\FMD
+
+NOTE: Run "conda activate myenv" for new installation
+
+3 - conda activate env_pytorch
+
+4 - python pytorch_infer.py --img-mode 0 --video-path ..\FMD\img\video1.mp4
+ 
+
+
